@@ -1,4 +1,10 @@
 # ScreenShots
+
+
+https://github.com/Manishkumarchoudhary2003/ExpenseTracker/assets/107823673/0d2beea2-be63-4559-896c-fd97580bee4e
+
+
+
 # Dashboard
 ![Screenshot 2023-08-01 004236](https://github.com/Manishkumarchoudhary2003/ExpenseTracker/assets/107823673/fd3d8a51-6545-4333-9203-827639e8c5e6)
 
